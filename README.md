@@ -4,7 +4,7 @@
 - 📈 MVVM | MVC | SOLID
 - 🤖 Firmware para microcontroladores com C ou ASM
 - 📊 Firmware para PLC's dos principais fabricantes
-- 🎓 Análise e desenvolvimento de sistemas
+- 🎓 Análise e desenvolvimento de sistemas | Automação industrial
 - 💜 VB6 minha primeira linguagem de programação 
 
 
