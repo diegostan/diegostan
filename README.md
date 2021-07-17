@@ -11,7 +11,7 @@
 - MVVM | MVC | S.O.L.I.D
 - Firmware para microcontroladores com C ou ASM
 - Firmware para PLC's dos principais fabricantes
-- Análise e desenvolvimento de sistemas | Automação industrial
+- Engenharia de software | Automação industrial
 - VB6 minha primeira linguagem de programação 
 
 ### Soft 📊💙🖤❤️
