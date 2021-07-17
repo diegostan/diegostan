@@ -1,7 +1,7 @@
 
 # Diego Magalhães
 ## Sobre
-* Desenvolvedor com habilidades em .NET C# (Framework e Core) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end. Possuo um grande apreço por códigos bem escritos e legíveis buscando compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou fascinado em métodos ágeis estudando-os constantemente. Deselvolver software é uma arte.
+* Desenvolvedor com habilidades em .NET C# (Framework e Core) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end. Possuo um grande apreço por códigos bem escritos e legíveis buscando compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou fascinado em métodos ágeis estudando-os constantemente. Deselvolver software é uma arte.
 
 
 ### Hard 🤖🎓🖥️📱
