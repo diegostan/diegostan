@@ -6,7 +6,7 @@
 
 ### Hard 🤖🎓🖥️📱
 - Back C# .NET Framework | .NET Core | Asp.NET
-- Front WPF MVVM | WinForms | Angular | TS
+- Front WPF MVVM | WinForms | Blazor
 - Mobile Xamarin.Forms MVVM
 - MVVM | MVC | S.O.L.I.D
 - Firmware para microcontroladores com C ou ASM
