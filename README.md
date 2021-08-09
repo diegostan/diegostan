@@ -26,11 +26,11 @@
 <div>
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 </div>
-
+<hr/>
  <div>
   <a href="https://github.com/nubiaferr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegostan&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    <r/>
+    <hr/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegostan&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
