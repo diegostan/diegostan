@@ -24,14 +24,15 @@
 - Humildade para ensinar e aprender eternamente
 
 <div>
-  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg">
-  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg">
-  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg">
-  
+  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 </div>
 
-### Git Novo
+ <div>
+  <a href="https://github.com/nubiaferr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nubiaferr&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiaferr&layout=compact&langs_count=7&theme=bear"/>
+</div>
+
 <!---
 diegostan/diegostan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
