@@ -23,15 +23,16 @@
 - Comunicação é o poder
 - Humildade para ensinar e aprender eternamente
 
-<div>
+<div align="center">
+  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 </div>
 <hr/>
- <div>
+ <div align="center">
   <a href="https://github.com/diegostan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegostan&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegostan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      - 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegostan&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegostan&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!---
