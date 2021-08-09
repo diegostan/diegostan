@@ -23,6 +23,14 @@
 - Comunicação é o poder
 - Humildade para ensinar e aprender eternamente
 
+<div>
+  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg">
+  <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg">
+  
+</div>
+
 ### Git Novo
 <!---
 diegostan/diegostan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
