@@ -4,6 +4,7 @@
 * Desenvolvedor com habilidades em .NET C# (Framework e Core) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end. Possuo um grande apreço por códigos bem escritos e legíveis buscando compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou fascinado em métodos ágeis estudando-os constantemente. Deselvolver software é uma arte.
 
 <hr/>
+
 ### Hard 🤖🎓🖥️📱
 - Back C# .NET Framework | .NET Core | Asp.NET
 - Front WPF MVVM | WinForms | Blazor
@@ -13,7 +14,9 @@
 - Firmware para PLC's dos principais fabricantes
 - Engenharia de software | Automação industrial
 - VB6 minha primeira linguagem de programação 
+
 <hr/>
+
 ### Soft 📊💙🖤❤️
 - Ajudar a comunidade 
 - Aprender com a comunidade
@@ -33,6 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegostan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      - 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegostan&layout=compact&langs_count=7&theme=radical"/>
+    
 </div>
 
 <!---
