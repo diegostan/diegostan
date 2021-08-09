@@ -3,7 +3,7 @@
 ## Sobre
 * Desenvolvedor com habilidades em .NET C# (Framework e Core) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end. Possuo um grande apreço por códigos bem escritos e legíveis buscando compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou fascinado em métodos ágeis estudando-os constantemente. Deselvolver software é uma arte.
 
-
+<hr/>
 ### Hard 🤖🎓🖥️📱
 - Back C# .NET Framework | .NET Core | Asp.NET
 - Front WPF MVVM | WinForms | Blazor
@@ -13,7 +13,7 @@
 - Firmware para PLC's dos principais fabricantes
 - Engenharia de software | Automação industrial
 - VB6 minha primeira linguagem de programação 
-
+<hr/>
 ### Soft 📊💙🖤❤️
 - Ajudar a comunidade 
 - Aprender com a comunidade
@@ -22,10 +22,10 @@
 - Bater papo sobre tecnologia
 - Comunicação é o poder
 - Humildade para ensinar e aprender eternamente
-
+<hr/>
 <div align="center">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/c-plain.svg">
 </div>
 <hr/>
  <div align="center">
