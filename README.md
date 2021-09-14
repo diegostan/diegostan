@@ -6,14 +6,14 @@
 <hr/>
 
 ### Hard 🤖🎓🖥️📱
-- Back C# .NET Framework | .NET Core | Asp.NET
-- Front WPF MVVM | WinForms | Blazor
+- Back C# .NET Framework | .NET Core | Asp.NET | NodeJs
+- Front WPF MVVM | WinForms | Blazor | Angular
 - Mobile Xamarin.Forms MVVM
 - MVVM | MVC | S.O.L.I.D
 - Firmware para microcontroladores com C ou ASM
 - Firmware para PLC's dos principais fabricantes
 - Engenharia de software | Automação industrial
-- VB6 minha primeira linguagem de programação 
+- VB6 minha primeira linguagem de programação ❤️
 
 <hr/>
 
