@@ -29,6 +29,7 @@
 <div align="center">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <hr/>
  <div align="center">
