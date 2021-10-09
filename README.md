@@ -5,7 +5,7 @@
 
 <hr/>
 
-### Hard 🤖🎓🖥️📱
+### Hard 🤖
 - Back C# .NET Framework | .NET Core | Asp.NET | NodeJs
 - Front WPF MVVM | WinForms | Blazor | Angular
 - Mobile Xamarin.Forms MVVM
@@ -17,7 +17,7 @@
 
 <hr/>
 
-### Soft 📊💙🖤❤️
+### Soft 📊
 - Ajudar a comunidade 
 - Aprender com a comunidade
 - Clean Code
