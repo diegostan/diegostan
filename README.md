@@ -1,7 +1,7 @@
 
 # Diego Magalhães
 ## Sobre
-* Desenvolvedor com habilidades em .NET C# (Framework e Core) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end. Possuo um grande apreço por códigos bem escritos e legíveis buscando compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou fascinado em métodos ágeis estudando-os constantemente. Deselvolver software é uma arte.
+* Desenvolvedor com habilidades em .NET C# (Framework, Core e Full) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end solucionando problemas nas mais diversas areas como energia, produtividade, industrial, bancária entre outras. Possuo um grande apreço por códigos bem escritos e legíveis buscando acoplar esses conceitos para obter a mais alta taxa de produtividade e qualidade de software. Busco compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou adepto a métodos ágeis estudando-os constantemente.
 
 <hr/>
 
@@ -13,7 +13,7 @@
 - Firmware para microcontroladores com C ou ASM
 - Firmware para PLC's dos principais fabricantes
 - Engenharia de software | Automação industrial
-- VB6 minha primeira linguagem de programação ❤️
+- VB6 como primeira linguagem de programação
 
 <hr/>
 
@@ -24,7 +24,7 @@
 - Melhorar a vida das pessoas com softwares 
 - Bater papo sobre tecnologia
 - Comunicação é o poder
-- Humildade para ensinar e aprender eternamente
+- Humildade para ensinar e aprender
 <hr/>
 <div align="center">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
