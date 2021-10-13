@@ -1,7 +1,7 @@
 
 # Diego Magalhães
 ## Sobre
-* Desenvolvedor com habilidades em .NET C# (Framework, Core e 5) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end solucionando problemas nas mais diversas areas como energia, produtividade, industrial, bancária entre outras. Atuo com no desenvolvimento front end com Angular, Blazor, WPF e Xamarin(MAUI). Possuo um grande apreço por códigos bem escritos e legíveis buscando acoplar esses conceitos para obter a mais alta taxa de produtividade e qualidade de software. Busco compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou adepto a métodos ágeis estudando-os constantemente.
+* Desenvolvedor com habilidades em .NET C# (Framework, Core e 5) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end solucionando problemas nas mais diversas areas como energia, produtividade, industrial, bancária entre outras. Atuo no desenvolvimento de aplicações front end com Angular, Blazor, WPF e Xamarin(MAUI). Possuo um grande apreço por códigos bem escritos e legíveis buscando acoplar esses conceitos para obter a mais alta taxa de produtividade e qualidade de software. Busco compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou adepto a métodos ágeis estudando-os constantemente.
 
 <hr/>
 
