@@ -26,6 +26,10 @@
 - Comunicação é o poder
 - Humildade para ensinar e aprender
 <hr/>
+
+Canal no YouTube 
+https://www.youtube.com/channel/UC2_4hOtghgV6mom-anfrDdQ
+
 <div align="center">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
