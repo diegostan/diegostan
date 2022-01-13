@@ -27,8 +27,10 @@
 - Humildade para ensinar e aprender
 <hr/>
 
-Canal no YouTube 
+Criador do canal Central dotNET no YouTube
 https://www.youtube.com/channel/UC2_4hOtghgV6mom-anfrDdQ
+
+<hr/>
 
 <div align="center">
   <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
