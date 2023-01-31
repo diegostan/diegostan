@@ -1,7 +1,8 @@
 
 # Diego Magalhães
 ## Sobre
-* Desenvolvedor de software Full Stack nas mais variadas tecnologias, atuo no mercado desde 2006 resolvendo problemas nas mais variadas áreas como energia, indústria, financeira e gestão.
+ 
+Desenvolvedor de software Full Stack nas mais variadas tecnologias, atuo no mercado desde 2006 resolvendo problemas nas mais variadas áreas como energia, indústria, financeira e gestão.
 
 Atuei com diversas tecnologias sendo atualmente focado em .NET e Angular para resolver problemas técnicos, sou totalmente agnóstico de tecnologias o que me permite atuar em qualquer tipo de projeto.
 
@@ -30,11 +31,10 @@ Criador do canal "Central dotNET" onde publico conteúdo gratuito para a comunid
 <hr/>
 
 Criador do canal **Central dotNET** no YouTube
-https://www.youtube.com/channel/UC2_4hOtghgV6mom-anfrDdQ
+youtube.com/c/CentraldotNET
 
 <hr/>
 
-<hr/>
  <div align="center">
   <a href="https://github.com/diegostan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegostan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
