@@ -1,23 +1,25 @@
 
 # Diego Magalhães
 ## Sobre
-* Desenvolvedor com habilidades em .NET C# (Framework, Core e 5) iniciei minha trajetória em 2006 criando soluções com VB6. Em 2012 voltei meus estudos para .NET desenvolvendo diversas soluções em back end solucionando problemas nas mais diversas areas como energia, produtividade, industrial, bancária entre outras. Atuo no desenvolvimento de aplicações front end com Angular, Blazor, WPF e Xamarin(MAUI). Possuo um grande apreço por códigos bem escritos e legíveis buscando acoplar esses conceitos para obter a mais alta taxa de produtividade e qualidade de software. Busco compreender as diversas linguagens e culturas de clientes para transformar ideias em produtos e negócios concretos. Procuro sempre as melhores práticas para o cenário buscando me colocar no lugar do usuário. Sou adepto a métodos ágeis estudando-os constantemente.
+* Desenvolvedor de software Full Stack nas mais variadas tecnologias, atuo no mercado desde 2006 resolvendo problemas nas mais variadas áreas como energia, indústria, financeira e gestão.
+
+Atuei com diversas tecnologias sendo atualmente focado em .NET e Angular para resolver problemas técnicos, sou totalmente agnóstico de tecnologias o que me permite atuar em qualquer tipo de projeto.
+
+Especialista em Domain Driven Design onde concílio equipes de especialistas de domínio e desenvolvedores para resolver o que realmente importa, o negócio da empresa.
+
+Conhecimentos profundos em SQL Server para gerar performance e resultado ao menor custo dentro dos meus projetos.
+
+Possuo grande apreço por qualidade de software implantando e ensinando pessoas sobre SOLID, GRASP, Object Calisthenics entre outros.
+
+Sou um contribuidor assíduo da comunidade tecnológica com mais de 50 vídeos postados e dezenas de artigos técnicos espalhados por aí, tudo isso de forma gratuita e sem qualquer tipo de auto promoção. 
+
+Possuo profundos conhecimentos em programação de baixo nível com Assembly e C onde atuei por 2 anos profissionalmente desenvolvendo firmwares para microprocessadores Intel e AVR.
+
+Criador do canal "Central dotNET" onde publico conteúdo gratuito para a comunidade.
 
 <hr/>
 
-### Hard 🤖
-- Back C# .NET Framework | .NET Core | Asp.NET | NodeJs
-- Front WPF MVVM | WinForms | Blazor | Angular
-- Mobile Xamarin.Forms MVVM
-- MVVM | MVC | S.O.L.I.D
-- Firmware para microcontroladores com C ou ASM
-- Firmware para PLC's dos principais fabricantes
-- Engenharia de software | Automação industrial
-- VB6 como primeira linguagem de programação
-
-<hr/>
-
-### Soft 📊
+### Soft
 - Ajudar a comunidade 
 - Aprender com a comunidade
 - Clean Code
@@ -32,11 +34,6 @@ https://www.youtube.com/channel/UC2_4hOtghgV6mom-anfrDdQ
 
 <hr/>
 
-<div align="center">
-  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-</div>
 <hr/>
  <div align="center">
   <a href="https://github.com/diegostan">
